@@ -18,6 +18,8 @@ url: "http://joaobimbo.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-157056978-1"
 googleAnalyticsSiteUrl: "http://joaobimbo.github.io/failure_ws"
+google_analytics: G-F85HR1DYP7 # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
+
 siteVerification: "wedOD5uHWBKVzRU8wudTv5xLFbADLHdm6zhevjNFJw4"
                    
 # Organizer Info
